@@ -10,6 +10,7 @@ import java.util.List;
  * @Auther: Bryan
  * @Date: 2021/3/22 16:08
  **/
+//存放可以进行数据库操作的集合，以及解析错误的集合
 public class WhiteListMid {
 
     private List<WhiteListDto> addWhiteListDtos;
