@@ -15,6 +15,7 @@ import java.util.Date;
 @Entity
 @Table(name = "t_alipay_file_upload")
 @Proxy(lazy = false)
+//文件上传实体类
 public class AlipayFileUpload implements Serializable {
 
     private static final long serialVersionUID = 4150819241038121356L;
