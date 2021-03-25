@@ -13,6 +13,7 @@ import java.util.Date;
  * @Auther: Bryan
  * @Date: 2021/3/15 11:35
  **/
+//白名单实体类包括分页参数
 public class WhiteListDto implements Serializable {
 
     private static final long serialVersionUID = -5872276059748897478L;
