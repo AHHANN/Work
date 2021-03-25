@@ -8,6 +8,7 @@ import java.util.Date;
  * @Auther: Bryan
  * @Date: 2021/3/23 16:33
  **/
+//上传结果查询时需要的分页参数
 public class AlipayFileUploadDto {
     private boolean countable = false;
     private Integer pageNo;
